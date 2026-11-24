@@ -7,34 +7,28 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Frontend+Developer;Building+Real+World+Applications" />
 </p>
 
----
+--
 
-## 🛠️ Tech Stack
+### 🛠 Tech Stack
 
-### 👨‍💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
-</p>
+**Languages**
+![Java](https://shields.io)
+![SQL](https://shields.io)
+![JavaScript](https://shields.io)
+![TypeScript](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
 
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+**Frontend**
+![React](https://shields.io)
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
-
-### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
-</p>
+**Backend & Tools**
+![Spring Boot](https://shields.io)
+![Hibernate](https://shields.io)
+![Maven](https://shields.io)
+![Postman](https://shields.io)
+![Git](https://shields.io)
+![GitHub](https://shields.io)
 
 ---
 
