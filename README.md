@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rohith Kumar Pabbathi</h1>
-<h3 align="center">🎓 B.Tech Graduate  |  💻 Full-Stack Developer  |  🤖 AI Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Venna Sridevi</h1>
+<h3 align="center">🎓 B.Tech Graduate  |  ☕ Java Full-Stack Developer  |  🚀 Software Developer</h3>
 
 <p align="center">
   <img src="https://herokuapp.com" alt="Typing SVG" />
@@ -8,38 +8,47 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **B.Tech Graduate** passionate about building real-world web applications
-- 💻 Skilled in **Python, JavaScript, SQL**
-- 🤖 Interested in **AI integration in web products**
-- 🌱 Currently improving my **Full-Stack skills**
-- 📫 Reach me at **rohithpabbathi726@gmail.com**
+- 🎓 **B.Tech Graduate** passionate about Software Development & building real-world web applications
+- 💻 Skilled in **Java, Spring Boot, SQL, HTML5, CSS3, JavaScript**
+- 🌱 Currently learning Full-Stack Development & building scalable projects
+- 📫 Reach me at **vennasridevi23@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 👨‍💻 Languages
+#### 👨‍💻 Programming Languages
 <p>
-  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Java" />
   <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="TypeScript" />
   <img src="https://shields.io" alt="SQL" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
 </p>
 
 #### 🌐 Frontend
 <p>
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
   <img src="https://shields.io" alt="React" />
 </p>
 
-#### ⚙️ Backend & Tools
+#### ⚙️ Backend
 <p>
-  <img src="https://shields.io" alt="Django" />
-  <img src="https://shields.io" alt="Node.js" />
-  <img src="https://shields.io" alt="Flask" />
+  <img src="https://shields.io" alt="Spring Boot" />
+  <img src="https://shields.io" alt="Hibernate" />
+  <img src="https://shields.io" alt="REST API" />
+</p>
+
+#### 🗄️ Database
+<p>
+  <img src="https://shields.io" alt="MySQL" />
+</p>
+
+#### 🧰 Tools
+<p>
   <img src="https://shields.io" alt="Git" />
   <img src="https://shields.io" alt="GitHub" />
+  <img src="https://shields.io" alt="Maven" />
+  <img src="https://shields.io" alt="Postman" />
   <img src="https://shields.io" alt="VS Code" />
 </p>
 
@@ -47,16 +56,22 @@
 
 ### 🚀 Featured Projects
 
-#### 🍽️ Recipe Bite
-> A clean, user-friendly recipe website to explore food recipes with ingredients and step-by-step cooking instructions.
-* 🔧 **Tech:** JavaScript, HTML, CSS
-* ✨ Clean UI for browsing and reading recipes
+#### 📝 Online Quiz Application
+> Interactive quiz application to test knowledge with dynamic questions and instant scoring.
+* 🔧 **Tech:** HTML, CSS, JavaScript
+* ✨ Clean, user-friendly interface for taking quizzes
 * 🔗 [View Repository](https://github.com)
 
-#### 🤖 Code Whisper — AI Code Explainer
-> An AI-powered web tool that analyzes programming code and generates easy-to-understand explanations for users.
-* 🔧 **Tech:** Python, HTML, CSS, JavaScript
-* 🧠 AI-based code analysis and explanation engine
+#### 💼 Job Application Tracker
+> Web application to organize, manage, and track job applications across different hiring stages.
+* 🔧 **Tech:** HTML, CSS, JavaScript
+* ✨ Easy status tracking and organized dashboard
+* 🔗 [View Repository](https://github.com)
+
+#### 🧮 Calculator
+> Simple and responsive calculator web application for quick arithmetic calculations.
+* 🔧 **Tech:** HTML, CSS, JavaScript
+* ✨ Clean layout and instant calculation
 * 🔗 [View Repository](https://github.com)
 
 ---
@@ -77,13 +92,13 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:rohithpabbathi726@gmail.com">
+  <a href="mailto:vennasridevi23@gmail.com">
     <img src="https://shields.io" alt="Gmail" />
   </a>
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/rohithkumarpabbathi" target="_blank">
+  <a href="https://github.com" target="_blank">
     <img src="https://shields.io" alt="GitHub" />
   </a>
 </p>
