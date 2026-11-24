@@ -1,112 +1,90 @@
+
 <h1 align="center">Hi 👋, I'm Venna Sridevi</h1>
-<h3 align="center">🎓 B.Tech Graduate  |  ☕ Java Full-Stack Developer  |  🚀 Software Developer</h3>
+
+<h3 align="center">💻 Java Full Stack Developer | 🚀 Software Developer</h3>
 
 <p align="center">
-  <img src="https://herokuapp.com" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Frontend+Developer;Building+Real+World+Applications" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🎓 **B.Tech Graduate** passionate about Software Development & building real-world web applications
-- 💻 Skilled in **Java, Spring Boot, SQL, HTML5, CSS3, JavaScript**
-- 🌱 Currently learning Full-Stack Development & building scalable projects
-- 📫 Reach me at **vennasridevi23@gmail.com**
+## 🛠️ Tech Stack
 
----
-
-### 🛠️ Tech Stack
-
-#### 👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages
 <p>
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="SQL" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
 </p>
 
-#### 🌐 Frontend
+### 🌐 Frontend
 <p>
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="React" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-#### ⚙️ Backend
+### ⚙️ Backend
 <p>
-  <img src="https://shields.io" alt="Spring Boot" />
-  <img src="https://shields.io" alt="Hibernate" />
-  <img src="https://shields.io" alt="REST API" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
 </p>
 
-#### 🗄️ Database
+### 🗄️ Database
 <p>
-  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-#### 🧰 Tools
+### 🧰 Tools
 <p>
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
-  <img src="https://shields.io" alt="Maven" />
-  <img src="https://shields.io" alt="Postman" />
-  <img src="https://shields.io" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### 📝 Online Quiz Application
-> Interactive quiz application to test knowledge with dynamic questions and instant scoring.
-* 🔧 **Tech:** HTML, CSS, JavaScript
-* ✨ Clean, user-friendly interface for taking quizzes
-* 🔗 [View Repository](https://github.com)
+### 📝 Online Quiz Application
+- Built using HTML, CSS and JavaScript.
+- Interactive quiz application.
+- [View Repository](https://github.com/vennasridevi/Online-Quiz-Application)
 
-#### 💼 Job Application Tracker
-> Web application to organize, manage, and track job applications across different hiring stages.
-* 🔧 **Tech:** HTML, CSS, JavaScript
-* ✨ Easy status tracking and organized dashboard
-* 🔗 [View Repository](https://github.com)
+### 💼 Job Application Tracker
+- Web application to manage and track job applications.
+- Built using HTML, CSS and JavaScript.
+- [View Repository](https://github.com/vennasridevi/Job-Application-Tracker-)
 
-#### 🧮 Calculator
-> Simple and responsive calculator web application for quick arithmetic calculations.
-* 🔧 **Tech:** HTML, CSS, JavaScript
-* ✨ Clean layout and instant calculation
-* 🔗 [View Repository](https://github.com)
+### 🧮 Calculator
+- Simple calculator application.
+- Built using HTML.
+- [View Repository](https://github.com/vennasridevi/Calculator)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://vercel.app" alt="Profile Details" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vennasridevi&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://vercel.app" alt="Stats" height="170" />
-  <img src="https://vercel.app" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vennasridevi&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:vennasridevi23@gmail.com">
-    <img src="https://shields.io" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com" target="_blank">
-    <img src="https://shields.io" alt="GitHub" />
-  </a>
+  <a href="mailto:vennasridevi23@gmail.com">Gmail</a> |
+  <a href="https://www.linkedin.com/in/vennasridevi">LinkedIn</a> |
+  <a href="https://github.com/vennasridevi">GitHub</a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vennasridevi&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
+  ⭐ Thanks for visiting my GitHub Profile! ⭐
 </p>
